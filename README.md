@@ -23,6 +23,22 @@ This project uses **Python**, **OpenCV**, and **MediaPipe** to implement a varie
 
 ---
 
+## 🖼️ Project Images
+
+### Real-Time Monitoring Display
+
+![Real-Time Monitoring](./output/images/capture.png)  
+
+---
+
+## 📊 System Architecture Diagram
+
+### Diagram Overview
+
+![System Diagram](./output/images/flowchart.png)
+
+---
+
 ### 🛠️ Technologies Used
 
 - **Python**
