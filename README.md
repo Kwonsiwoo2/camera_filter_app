@@ -51,7 +51,7 @@ This project uses **Python**, **OpenCV**, and **MediaPipe** to implement a varie
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Kwonsiwoo2/camera-filter-app.git
+   git clone https://github.com/Kwonsiwoo2/camera_filter_app.git
    cd camera-filter-app
    ```
 
